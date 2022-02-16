@@ -1,0 +1,7 @@
+.shippingTotal_desc{
+    font-size: .8rem;
+    margin-bottom: 10px;
+}
+.shippingTotal_desc b{
+    color: green;
+}
