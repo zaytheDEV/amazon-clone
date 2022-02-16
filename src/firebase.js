@@ -2,7 +2,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCWwQ3AlgITquT6oSVbVsfoq2feotNzzdo",
+    apiKey: "ENTER API KEY",
     authDomain: "clone-db2cf.firebaseapp.com",
     projectId: "clone-db2cf",
     storageBucket: "clone-db2cf.appspot.com",
