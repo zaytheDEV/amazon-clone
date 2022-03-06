@@ -1,6 +1,17 @@
 Amazon Clone
+View Project live</br>
+https://clone-db2cf.web.app/
 
-Hi, and thank you for taking the time to review my Amazon Clone.
+View my portfolio</br>
+https://zaythedev.com
+
+<b>Stack</b>
+<li>JavaScript</li>
+<li>React</li>
+<li>Redux</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Firebase</li>
 
 <b>Instructions for App</b>
 1.	Click the “sign-in button” and enter a pseudo email and password.
